@@ -15,6 +15,7 @@ __published:	// IDE で管理されるコンポーネント
 	TLabel *Label2;
 	TLabel *Label3;
 	TLabel *Label4;
+	TLabel *Label5;
 	void __fastcall Label3Click(TObject *Sender);
 	void __fastcall Label4Click(TObject *Sender);
 private:	// ユーザー宣言
